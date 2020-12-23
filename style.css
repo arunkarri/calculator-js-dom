@@ -1,0 +1,41 @@
+.calculator-body{
+ margin: 10px 30px;
+ background-color: white;
+}
+.input-text{
+    margin: 4px;
+    border: 1px solid black;
+}
+.container{
+    background-color: #e9ecef;
+}
+.clear-button{
+    padding: 0;
+}
+.btn-clear{
+    margin: 4px;
+    height: 40px;
+    width: 40px;
+    
+}
+.btn-square {
+    border-radius: 0;
+    margin: 2px;
+    height: 60px;
+    width: 60px;
+  }
+
+  /* .btn-rect {
+    border-radius: 0;
+    margin: 2px;
+    height: 60px;
+    width: 100px;
+  } */
+
+  .btn-square:hover{
+      color: aliceblue;
+  }
+
+  .btn-square:click{
+    color: white;
+}
